@@ -10,5 +10,3 @@ def home():
     <p><em>"Cualquier problema tiene un solucion todo depende de la forma en que actues"</em></p>
     """
 
-if __name__ == "__main__":
-    app.run(debug=True)
